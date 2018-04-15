@@ -1,0 +1,7 @@
+arabic_reshaper==2.0.14
+openpyxl==2.5.2
+python_bidi==0.4.0
+persian==0.4.0
+qrcode==6.0
+requests==2.18.4
+Pillow==5.1.0
